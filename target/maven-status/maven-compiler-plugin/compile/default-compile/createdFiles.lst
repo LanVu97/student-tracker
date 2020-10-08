@@ -1,0 +1,9 @@
+com/mycompany/mavenproject4/handler/Student.class
+com/mycompany/mavenproject4/servers/HServer.class
+com/mycompany/mavenproject4/handler/StudentControllerServlet.class
+com/mycompany/mavenproject4/handler/TestStudent.class
+com/mycompany/mavenproject4/handler/HelloWorldHandler.class
+test/TestLog4j.class
+com/mycompany/mavenproject4/mysql/MySqlClient.class
+com/mycompany/mavenproject4/handler/LanHandler.class
+com/mycompany/mavenproject4/handler/StudentDB.class
